@@ -4,7 +4,6 @@
 }
 
 body {
-	font-size: 62.5%;
 	font-family: 'Montserrat', sans-serif;
 	max-width: 1200px;
 	margin: 0 auto;
@@ -16,11 +15,11 @@ h1 {
 
 h1.heading {
 	text-align: center;
-	font-size: 2.5em;
+	font-size: 25px;
 }
 
 p {
-	font-size: 1.4em;
+	font-size: 14px;
 	font-weight: 400;
 	color: #000000;
 	position: relative;
@@ -36,7 +35,7 @@ section {
 
 section h3 {
 	font-weight: 700;
-	font-size: 1.8em;
+	font-size: 18px;
 	position: absolute;
 	right: 0;
 	top: 0;
